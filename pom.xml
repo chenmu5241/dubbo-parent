@@ -7,6 +7,7 @@
   <modules>
   	<module>dubbo-service</module>
   	<module>dubbo-service-impl</module>
+  	<module>dubbo-consumer</module>
   </modules>
   
   <build>  
